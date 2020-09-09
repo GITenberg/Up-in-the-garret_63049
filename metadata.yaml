@@ -1,0 +1,28 @@
+_repo: Up-in-the-garret_63049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ranger, Robin
+    alias: Freeman, James M. (James Midwinter)
+    birthdate: 1827
+    deathdate: 1900
+    gutenberg_agent_id: '52245'
+    url: http://www.gutenberg.org/2009/agents/52245
+    wikipedia: https://en.wikipedia.org/wiki/James_Midwinter_Freeman
+description: ''
+gutenberg_issued: '2020-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Sunday school literature'
+- !lcc 'PZ'
+- !lcsh 'Children -- Juvenile fiction'
+- GITenberg
+title: Up in the garret
+url: http://www.gutenberg.org/ebooks/63049
